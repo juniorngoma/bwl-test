@@ -7,6 +7,6 @@
   <title>Document</title>
 </head>
 <body>
-  <?php echo Date('y-m-d'); ?>
+  <?php echo "coolers"; ?>
 </body>
 </html>
