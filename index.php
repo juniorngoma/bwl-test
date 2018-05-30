@@ -7,6 +7,6 @@
   <title>Document</title>
 </head>
 <body>
-  <?php echo "coolers"; ?>
+  <?php echo "cooling"; ?>
 </body>
 </html>
